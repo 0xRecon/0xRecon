@@ -138,7 +138,7 @@ page-col: "#1c1c1c"
 text-col: "#c2c2c2"
 link-col: "#008AFF"
 hover-col: "#0085A1" # blue
-navbar-col: "#1c1c1c"
+navbar-col: "#242424"
 navbar-text-col: "#c2c2c2"
 navbar-border-col: "#242424"
 footer-col: "#1c1c1c"
